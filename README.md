@@ -10,10 +10,9 @@ When the application is started, you will be prompted to enter a unit of measure
 
 ## Example
 
-Enter a unit of measurement: 50
-Enter a unit to convert from: Fahrenheit
-Enter a unit to convert to: Celsius
-Enter an answer: 10
-
+Enter a unit of measurement: 50 <br>
+Enter a unit to convert from: Fahrenheit <br>
+Enter a unit to convert to: Celsius <br>
+Enter an answer: 10 <br>
 Output: This is the correct value
 
